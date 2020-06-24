@@ -1,0 +1,6 @@
+
+
+هذي المهمه لتعرف على وجهه الإنسان .. عشان يعرف الريبورت إذا أمامه إنسان أو لا 
+
+this task for find the face and eyes from image 
+To recognize human face
